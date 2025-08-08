@@ -1,0 +1,19 @@
+mobile-theft-checker/
+│
+├── backend/
+│   ├── models/
+│   │   └── Phone.js
+│   ├── routes/
+│   │   └── phones.js
+│   ├── .env
+│   ├── package.json
+│   └── server.js
+│
+└── frontend/
+    ├── public/
+    │   └── index.html
+    ├── src/
+    │   ├── App.js
+    │   ├── api.js
+    │   └── index.js
+    ├── package.json
